@@ -1,0 +1,29 @@
+.card-gradient-primary {
+  background: var(--gradient-primary);
+  border-color: transparent;
+  color: white;
+}
+
+.card-gradient-success {
+  background: var(--gradient-success);
+  border-color: transparent;
+  color: white;
+}
+
+.card-gradient-danger {
+  background: var(--gradient-danger);
+  border-color: transparent;
+  color: white;
+}
+
+.card-gradient-info {
+  background: var(--gradient-info);
+  border-color: transparent;
+  color: white;
+}
+
+.card-gradient-accent {
+  background: var(--gradient-accent);
+  border-color: transparent;
+  color: white;
+}
