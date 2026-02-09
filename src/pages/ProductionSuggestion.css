@@ -1,0 +1,28 @@
+.revenue-card {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-lg);
+  padding: var(--spacing-xl);
+  margin-bottom: var(--spacing-xl);
+}
+
+.product-name {
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.quantity-badge {
+  display: inline-block;
+  padding: var(--spacing-xs) var(--spacing-md);
+  background: var(--gradient-info);
+  color: white;
+  border-radius: var(--radius-full);
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+
+.total-value {
+  font-weight: 600;
+  color: var(--color-success);
+  font-size: var(--font-size-lg);
+}
